@@ -1,3 +1,5 @@
+**For excercise answers / solutions of mine, please see my [lectures repo](https://github.com/sengeezer/lectures)**
+
 CAS Frontend Engineering Lectures
 =================================
 
